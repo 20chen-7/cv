@@ -31,12 +31,16 @@
       </thead>
       <tbody>
         <tr>
-          <td>2015-2018</td>
+          <td>2015 January - 2018 June </td>
           <td>Project Leader in Guangzhou University</td>
         </tr>
         <tr>
-          <td>2020-2021</td>
+          <td>2020 Feburary - 2021 August</td>
           <td>Research Assistant in Colorado School of Mines</td>
+        </tr>
+        <tr>
+          <td>2022 January - 2022 May</td>
+          <td>Grader in Colorado School of Mines</td>
         </tr>
       </tbody>
     </table>
